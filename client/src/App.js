@@ -10,6 +10,7 @@ import Recruitment from "./pages/Recruitment";
 function App () {
     return (
         <Router>
+            <div>
             <Navbar />
             <Navbutton />
                 <Switch>
@@ -18,6 +19,7 @@ function App () {
                     <Route exact path ="/UTA_Lambda_Phi_Epsilon/recruitment" component={Recruitment} />
                 </Switch>    
             <Footer />
+            </div>
         </Router>
     );
 };
