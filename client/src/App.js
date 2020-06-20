@@ -1,7 +1,7 @@
 import React from 'react';
 import { HashRouter as Router, Route, Switch } from "react-router-dom";
 import Navbar from './components/Navbar';
-import Navbutton from './components/Navbutton';
+// import Navbutton from './components/Navbutton';
 import Footer from './components/Footer';
 import About from "./pages/About";
 import Events from "./pages/Events";
@@ -14,7 +14,7 @@ const App = () => {
             <ScrollToTop />
                 <div>
                 <Navbar />
-                <Navbutton />
+                {/* <Navbutton /> */}
                     <Switch>
                         <Route exact path ="/" component= {About} />
                         <Route exact path ="/events" component={Events} />

@@ -2,12 +2,22 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 
-const Navbutton = () => {
-  return (
-    <div className="navigation">
+class Navbutton extends React.Component {
+
+  state = {navDisplay: false}
+
+  componentDidMount(){
+    window.addEventListener('scroll', this.handleScroll);
+  }
+  handleScroll = (e) => {
+    window.pageYOffset > 0 ? this.setState({navDisplay: true}) : this.setState({navDisplay: false});
+  }
+
+  render (){
+  return (<div className="navigation" style = {this.state.navDisplay ? {display:"block"}:{display:"none"}}>
       <input type="checkbox" className="navigation__checkbox" id="navi-toggle" />
 
-      <label for="navi-toggle" className="navigation__button">
+      <label htmlFor="navi-toggle" className="navigation__button">
         <span className="navigation__icon">&nbsp;</span>
       </label>
 
@@ -39,6 +49,7 @@ const Navbutton = () => {
       </nav>
     </div>
   );
+};
 };
 
 export default Navbutton;
