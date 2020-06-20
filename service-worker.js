@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UTA_Lambda_Phi_Epsilon/precache-manifest.3206c2772f6e87149c4ba6b19981a728.js"
+  "/UTA_Lambda_Phi_Epsilon/precache-manifest.10fc185a5690b04d65896a8730a824a7.js"
 );
 
 self.addEventListener('message', (event) => {
