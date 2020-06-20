@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css",
-    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.194fc8e5.chunk.js",
-    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.194fc8e5.chunk.js.map",
+    "main.css": "/UTA_Lambda_Phi_Epsilon/static/css/main.5e0ace16.chunk.css",
+    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.9402ee68.chunk.js",
+    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.9402ee68.chunk.js.map",
     "runtime-main.js": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js",
     "runtime-main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js.map",
-    "static/js/2.fd86da07.chunk.js": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js",
-    "static/js/2.fd86da07.chunk.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js.map",
+    "static/js/2.07a85d7d.chunk.js": "/UTA_Lambda_Phi_Epsilon/static/js/2.07a85d7d.chunk.js",
+    "static/js/2.07a85d7d.chunk.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/2.07a85d7d.chunk.js.map",
     "index.html": "/UTA_Lambda_Phi_Epsilon/index.html",
-    "precache-manifest.27bc141eba43a677a0e1fa8a0a4e8b09.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.27bc141eba43a677a0e1fa8a0a4e8b09.js",
+    "precache-manifest.7f87a11880c6c8762004295c14654787.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.7f87a11880c6c8762004295c14654787.js",
     "service-worker.js": "/UTA_Lambda_Phi_Epsilon/service-worker.js",
-    "static/css/main.f46b5bed.chunk.css.map": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css.map",
-    "static/js/2.fd86da07.chunk.js.LICENSE.txt": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js.LICENSE.txt",
+    "static/css/main.5e0ace16.chunk.css.map": "/UTA_Lambda_Phi_Epsilon/static/css/main.5e0ace16.chunk.css.map",
+    "static/js/2.07a85d7d.chunk.js.LICENSE.txt": "/UTA_Lambda_Phi_Epsilon/static/js/2.07a85d7d.chunk.js.LICENSE.txt",
     "static/media/ChapterIcon.png": "/UTA_Lambda_Phi_Epsilon/static/media/ChapterIcon.7c649c97.png",
     "static/media/App.css": "/UTA_Lambda_Phi_Epsilon/static/media/recruitment.4818f876.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c01547f1.js",
-    "static/js/2.fd86da07.chunk.js",
-    "static/css/main.f46b5bed.chunk.css",
-    "static/js/main.194fc8e5.chunk.js"
+    "static/js/2.07a85d7d.chunk.js",
+    "static/css/main.5e0ace16.chunk.css",
+    "static/js/main.9402ee68.chunk.js"
   ]
 }
