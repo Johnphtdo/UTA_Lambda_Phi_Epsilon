@@ -16,22 +16,22 @@ function Navbutton() {
       <nav className="navigation__nav">
         <ul className="navigation__list">
           <li className="navigation__item">
-            <Link to="/" className="navigation__link">
+            <Link to="/UTA_Lambda_Phi_Epsilon/" className="navigation__link">
               Home
             </Link>
           </li>
           <li className="navigation__item">
-            <Link to="/brothers" className="navigation__link">
+            <Link to="/UTA_Lambda_Phi_Epsilon/brothers" className="navigation__link">
               Brothers
             </Link>
           </li>
           <li className="navigation__item">
-            <Link to="/events" className="navigation__link">
+            <Link to="/UTA_Lambda_Phi_Epsilon/events" className="navigation__link">
               Events
             </Link>
           </li>
           <li className="navigation__item">
-            <Link to="/recruitment" className="navigation__link">
+            <Link to="/UTA_Lambda_Phi_Epsilon/recruitment" className="navigation__link">
               Recruitment
             </Link>
           </li>

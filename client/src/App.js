@@ -14,9 +14,9 @@ function App () {
             <Navbar />
             <Navbutton />
                 <Switch>
-                    <Route exact path ="/" component= {About} />
-                    <Route exact path ="/events" component={Events} />
-                    <Route exact path ="/recruitment" component={Recruitment} />
+                    <Route exact path ="/UTA_Lambda_Phi_Epsilon/" component= {About} />
+                    <Route exact path ="/UTA_Lambda_Phi_Epsilon/events" component={Events} />
+                    <Route exact path ="/UTA_Lambda_Phi_Epsilon/recruitment" component={Recruitment} />
                 </Switch>    
             <Footer />
             </div>
