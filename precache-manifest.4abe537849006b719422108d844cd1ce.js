@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ef87b49a1299a0d3e56e23ccf150a8d",
+    "revision": "ed7e2b7766e05fbb13ecb32fcc930cf5",
     "url": "/UTA_Lambda_Phi_Epsilon/index.html"
   },
   {
-    "revision": "edd62705b6dfd6424c80",
+    "revision": "25276480c322635cfa3a",
     "url": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UTA_Lambda_Phi_Epsilon/static/js/2.a24c59f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "edd62705b6dfd6424c80",
-    "url": "/UTA_Lambda_Phi_Epsilon/static/js/main.7f79f66b.chunk.js"
+    "revision": "25276480c322635cfa3a",
+    "url": "/UTA_Lambda_Phi_Epsilon/static/js/main.856e7bb9.chunk.js"
   },
   {
     "revision": "2b94351c374c29e559ad",
