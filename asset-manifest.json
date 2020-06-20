@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css",
-    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.48fe8965.chunk.js",
-    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.48fe8965.chunk.js.map",
+    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.153efa96.chunk.js",
+    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.153efa96.chunk.js.map",
     "runtime-main.js": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js",
     "runtime-main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js.map",
     "static/js/2.a24c59f0.chunk.js": "/UTA_Lambda_Phi_Epsilon/static/js/2.a24c59f0.chunk.js",
     "static/js/2.a24c59f0.chunk.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/2.a24c59f0.chunk.js.map",
     "index.html": "/UTA_Lambda_Phi_Epsilon/index.html",
-    "precache-manifest.d03ba85337ba21df0278d51a2f78693d.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.d03ba85337ba21df0278d51a2f78693d.js",
+    "precache-manifest.3206c2772f6e87149c4ba6b19981a728.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.3206c2772f6e87149c4ba6b19981a728.js",
     "service-worker.js": "/UTA_Lambda_Phi_Epsilon/service-worker.js",
     "static/css/main.f46b5bed.chunk.css.map": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css.map",
     "static/js/2.a24c59f0.chunk.js.LICENSE.txt": "/UTA_Lambda_Phi_Epsilon/static/js/2.a24c59f0.chunk.js.LICENSE.txt",
-    "static/media/ChapterIcon.png": "/UTA_Lambda_Phi_Epsilon/static/media/ChapterIcon.5eb83c54.png",
+    "static/media/ChapterIcon.png": "/UTA_Lambda_Phi_Epsilon/static/media/ChapterIcon.7c649c97.png",
     "static/media/App.css": "/UTA_Lambda_Phi_Epsilon/static/media/recruitment.4818f876.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c01547f1.js",
     "static/js/2.a24c59f0.chunk.js",
     "static/css/main.f46b5bed.chunk.css",
-    "static/js/main.48fe8965.chunk.js"
+    "static/js/main.153efa96.chunk.js"
   ]
 }

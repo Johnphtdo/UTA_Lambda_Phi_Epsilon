@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da3abcf7759401d06e667bfef6ec7bb7",
+    "revision": "90beb2dc1475293d0abd8e527473120a",
     "url": "/UTA_Lambda_Phi_Epsilon/index.html"
   },
   {
-    "revision": "b437823b046cf4838506",
+    "revision": "b4dbe58696c4e7cf697d",
     "url": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css"
   },
   {
@@ -16,16 +16,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/UTA_Lambda_Phi_Epsilon/static/js/2.a24c59f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b437823b046cf4838506",
-    "url": "/UTA_Lambda_Phi_Epsilon/static/js/main.48fe8965.chunk.js"
+    "revision": "b4dbe58696c4e7cf697d",
+    "url": "/UTA_Lambda_Phi_Epsilon/static/js/main.153efa96.chunk.js"
   },
   {
     "revision": "2b94351c374c29e559ad",
     "url": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js"
   },
   {
-    "revision": "5eb83c54136990f6cc0005446126d850",
-    "url": "/UTA_Lambda_Phi_Epsilon/static/media/ChapterIcon.5eb83c54.png"
+    "revision": "7c649c97a039805c5b210342451161b0",
+    "url": "/UTA_Lambda_Phi_Epsilon/static/media/ChapterIcon.7c649c97.png"
   },
   {
     "revision": "0fb5dc5c65047a971e4b0e97d757aa3a",
