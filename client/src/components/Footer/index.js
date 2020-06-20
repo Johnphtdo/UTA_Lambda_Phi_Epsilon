@@ -1,11 +1,11 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 
-function Footer(){
+const Footer = () => {
     return(
   <footer className="footer">
     <div className="footer__logo-box">
-      <Link to="/UTA_Lambda_Phi_Epsilon/" className="footer">
+      <Link to="/" className="footer">
         {/* <!-- Replace ChapterIcon.png in the img folder with your chapter's icon or use your school's icon. Change file format below if neccessary --> */}
         <img src={require("../../assets/img/ChapterIcon.png")} alt="Full Chapter logo" className="footer__logo" />
       </Link>
@@ -15,13 +15,13 @@ function Footer(){
         <div className="footer__navigation">
           <ul className="footer__list">
             <li className="footer__item">
-              <Link to="/UTA_Lambda_Phi_Epsilon/brothers" className="footer__link">Brothers</Link>
+              <Link to="/brothers" className="footer__link">Brothers</Link>
             </li>
             <li className="footer__item">
-              <Link to="/UTA_Lambda_Phi_Epsilon/events" className="footer__link">Events</Link>
+              <Link to="/events" className="footer__link">Events</Link>
             </li>
             <li className="footer__item">
-              <Link to="/UTA_Lambda_Phi_Epsilon/recruitment" className="footer__link">Recruitment</Link>
+              <Link to="/recruitment" className="footer__link">Recruitment</Link>
             </li>
             <li className="footer__item">
               {/* <!-- Change links under to to match your chapter --> */}

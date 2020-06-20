@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Header(props){
+const Header = (props) => {
     return(
     <header className="header" id={props.id}>
     <div className="header__text-box">

@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../../components/Header";
 import Button from "../../components/Button";
 
-function Recruitment() {
+const Recruitment = () => {
   return (
     <div>
       <Header id="header__recruitment" sub="BECOME A LEADER AMONG MEN" />
