@@ -1,0 +1,111 @@
+  /* Placing the font family into body so that every other element inherits it */
+  body {
+    /* Lato is the font style we grabbed from Google. See line 7 & 8 in index.html for reference */
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    /* font-size: 16px; */
+    line-height: 1.7;
+    color: $color-white;
+    padding: 1rem;
+    background-color: $color-primary;
+    @include respond(tab-port) {
+      padding: 0;
+  }
+}
+
+.heading-primary {
+  text-shadow: $default-shadow;
+
+    color: $color-white;
+    backface-visibility: hidden;
+
+    &--main {
+      display: block;
+      font-size: 6rem;
+      font-weight: 400;
+      letter-spacing: 1.85rem;
+      animation-name: moveInLeft;
+      animation-duration: 1s;
+      animation-timing-function: ease-in-out;
+    }
+    &--sub {
+      display: block;
+      font-size: $default-font-size;
+      font-weight: 700;
+      letter-spacing: 0.75rem;
+      animation: moveInRight 1s ease-in-out;
+    }
+  }
+  
+.heading-secondary {
+  text-shadow: $default-shadow;
+  font-size: $default-font-size;
+  margin-bottom: 1%;
+  display: inline-block;
+  @include respond(phone){
+    font-size: $small-font-size;
+    padding: 1rem;
+  }
+  
+  &--main{
+    font-weight: 400;
+        font-size: 4rem;
+        display:block;
+        margin-bottom: 1%;
+      }
+      
+  &--sub{
+        font-weight: 700;
+        display:block;
+        
+      }
+  
+}
+
+.about-us{
+  text-shadow: $default-shadow;
+
+      font-size: $small-font-size;
+      max-width: 75%;
+      margin: 2rem auto;
+      @include respond (tab-land){
+        max-width: 80%;
+        font-size: $default-font-size;
+      }
+      @include respond(tab-port){
+        max-width: 90%;
+        font-size: $default-font-size
+      }
+      @include respond(phone){
+        font-size: $small-font-size;
+      }
+}
+.about-recruitment{
+  font-size: $default-font-size;
+  text-shadow: $default-shadow;
+  margin: 2rem auto;
+  @include respond(tab-port){
+    padding: 2rem;
+  }
+  @include respond(phone){
+    font-size: $small-font-size;
+  }
+}
+.accordion {
+  font-size: $default-font-size;
+  margin: 2rem auto;
+
+  .card-header{
+  @include respond(tab-port){
+    padding: 2rem;
+  }
+}
+  .card-body{
+    @include respond(tab-port){
+      padding: 2rem;
+    }
+    @include respond(phone){
+      font-size: $small-font-size;
+    }
+  }
+}

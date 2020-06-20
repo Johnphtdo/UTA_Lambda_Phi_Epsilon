@@ -1,0 +1,12 @@
+ .btn_secondary{
+      background-color: $color-secondary;
+      color: $color-white;
+      @include buttonDesign;
+      text-transform: initial;
+  }
+.btn_primary{
+    background-color: rgba($color-white, .8);
+    color: $color-primary;
+    @include buttonDesign;
+}
+

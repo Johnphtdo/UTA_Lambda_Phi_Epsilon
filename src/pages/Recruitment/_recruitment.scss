@@ -1,0 +1,46 @@
+.card {
+  background-color: $color-secondary;
+}
+
+.contact-link {
+  color: $color-secondary;
+  &:link,
+  &:visited {
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+  }
+
+  &:hover,
+  &:active {
+    color: $color-primary;
+  }
+}
+.btn-link {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  color: $color-white;
+  text-decoration: none;
+  font-size: $small-font-size;
+
+  &:hover,
+  &:active {
+    color: $color-black;
+  }
+}
+
+.section-recruitment{
+  background-image: linear-gradient(
+    to bottom,
+    rgba($color-primary, 0.5),
+    rgba($color-primary, 0.75)
+  ),
+  url(./assets/img/recruitment.jpg);
+  background-size: cover;
+  background-position: center;
+  
+  @include respond(tab-port){
+    background-image: none;
+  }
+}

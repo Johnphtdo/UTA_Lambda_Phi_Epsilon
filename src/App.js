@@ -1,0 +1,25 @@
+import React from 'react';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import Navbar from './components/Navbar';
+import Navbutton from './components/Navbutton';
+import Footer from './components/Footer';
+import About from "./pages/About";
+import Events from "./pages/Events";
+import Recruitment from "./pages/Recruitment";
+
+function App () {
+    return (
+        <Router>
+            <Navbar />
+            <Navbutton />
+                <Switch>
+                    <Route exact path ="/" component= {About} />
+                    <Route exact path ="/events" component={Events} />
+                    <Route exact path ="/recruitment" component={Recruitment} />
+                </Switch>    
+            <Footer />
+        </Router>
+    );
+};
+
+export default App;

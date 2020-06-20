@@ -1,0 +1,10 @@
+.cardBox {
+    background-color: rgba($color-secondary, 0.8);
+    text-align: center;
+    padding: 2.5rem;
+    box-shadow: 0 1.5rem 4rem rgba($color-black, 1);
+    @media only screen and (max-width: 56.25em),
+            only screen and (hover: none) {
+                box-shadow: none;
+            }
+}
