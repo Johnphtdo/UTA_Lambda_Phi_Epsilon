@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css",
-    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.0855b048.chunk.js",
-    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.0855b048.chunk.js.map",
+    "main.js": "/UTA_Lambda_Phi_Epsilon/static/js/main.194fc8e5.chunk.js",
+    "main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/main.194fc8e5.chunk.js.map",
     "runtime-main.js": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js",
     "runtime-main.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/runtime-main.c01547f1.js.map",
     "static/js/2.fd86da07.chunk.js": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js",
     "static/js/2.fd86da07.chunk.js.map": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js.map",
     "index.html": "/UTA_Lambda_Phi_Epsilon/index.html",
-    "precache-manifest.0a36807fcc67e0540798402074a4d62d.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.0a36807fcc67e0540798402074a4d62d.js",
+    "precache-manifest.27bc141eba43a677a0e1fa8a0a4e8b09.js": "/UTA_Lambda_Phi_Epsilon/precache-manifest.27bc141eba43a677a0e1fa8a0a4e8b09.js",
     "service-worker.js": "/UTA_Lambda_Phi_Epsilon/service-worker.js",
     "static/css/main.f46b5bed.chunk.css.map": "/UTA_Lambda_Phi_Epsilon/static/css/main.f46b5bed.chunk.css.map",
     "static/js/2.fd86da07.chunk.js.LICENSE.txt": "/UTA_Lambda_Phi_Epsilon/static/js/2.fd86da07.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c01547f1.js",
     "static/js/2.fd86da07.chunk.js",
     "static/css/main.f46b5bed.chunk.css",
-    "static/js/main.0855b048.chunk.js"
+    "static/js/main.194fc8e5.chunk.js"
   ]
 }
