@@ -11,7 +11,8 @@
     "seed": "node scripts/seedDB.js",
     "install": "cd client && npm install",
     "build": "cd client && npm run build",
-    "deploy": "cd client && npm run deploy"
+    "deploy": "cd client && npm run deploy",
+    "compile:sass": "cd client && npm run compile:sass"
   },
   "author": "",
   "license": "ISC",
