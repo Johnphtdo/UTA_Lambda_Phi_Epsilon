@@ -6,22 +6,22 @@ function Navbar() {
     <nav className="nav" role="navigation">
       <ul className="nav__list">
         <li className="nav__list-item">
-          <Link className="nav__link" to="/UTA_Lambda_Phi_Epsilon/">
+          <Link className="nav__link" to="/">
             Home
           </Link>
         </li>
         <li className="nav__list-item">
-          <Link className="nav__link" to="/UTA_Lambda_Phi_Epsilon/events">
+          <Link className="nav__link" to="/events">
             Events
           </Link>
         </li>
         <li className="nav__list-item">
-          <Link className="nav__link" to="/UTA_Lambda_Phi_Epsilon/brothers">
+          <Link className="nav__link" to="/brothers">
             Brothers
           </Link>
         </li>
         <li className="nav__list-item">
-          <Link className="nav__link" to="/UTA_Lambda_Phi_Epsilon/recruitment">
+          <Link className="nav__link" to="/recruitment">
             Recruitment
           </Link>
         </li>
